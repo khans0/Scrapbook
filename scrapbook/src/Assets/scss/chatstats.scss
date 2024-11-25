@@ -1,0 +1,24 @@
+.chat-stats {
+    text-align: left;
+    input[type='file'] {
+      margin-bottom: 1rem;
+    }
+    h3 {
+      color: #d3b155;
+    }
+    input[type='text'] {
+      padding: 5px;
+      margin-right: 10px;
+      border: 1px solid #ccc;
+    }
+    button {
+      background-color: #c8a227;
+      color: #fff;
+      border: none;
+      padding: 5px 10px;
+      cursor: pointer;
+      &:hover {
+        background-color: #a6851e;
+      }
+    }
+  }  

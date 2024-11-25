@@ -1,0 +1,21 @@
+.scrapbook {
+    text-align: center;
+    h1 {
+      font-size: 2.5rem;
+      margin-bottom: 1rem;
+    }
+    .flip-book {
+      height: 70vh;
+      width: 50vw;
+      margin: 0 auto;
+      .page {
+        background: #f0e4d7;
+        border: 1px solid #d3b155;
+        padding: 20px;
+        h2 {
+          color: #c8a227;
+        }
+      }
+    }
+  }
+  
